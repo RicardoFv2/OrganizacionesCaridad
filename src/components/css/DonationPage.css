@@ -1,0 +1,10 @@
+.DonationPage {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.DonationPage button {
+    background-color: #28a745;
+}
